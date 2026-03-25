@@ -1,9 +1,14 @@
 <?php
 /**
  * Plugin Name: G Web AI Drafts (Yoast SEO + WP Auth + Featured Image + Bulk)
+ * Plugin URI:  https://github.com/GWeb2015/G-Web-AI-Drafts
  * Description: Creates single or multiple draft posts via REST API with Yoast SEO fields, featured image, categories, and tags using WordPress authentication.
  * Version: 1.4
  * Author: G Web Design
+ * Author URI:  https://www.gwebdesign.co.za
+ * License: MIT
+ * License URI: https://opensource.org/licenses/MIT
+ * Text Domain: g-web-ai-drafts
  */
 
 if (! defined('ABSPATH')) exit;
